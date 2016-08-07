@@ -1,0 +1,11 @@
+{
+  "name": "foundation-icons",
+  "version": "1.0.0",
+  "description": "Foundation Icon Fonts 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Kelly",
+  "license": "ISC"
+}
