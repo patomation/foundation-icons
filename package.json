@@ -19,7 +19,11 @@
   "keywords": [
     "foundation",
     "icon",
-    "fonts"
+    "fonts",
+    "svg",
+    "scss",
+    "eot",
+    "woff"
   ],
   "ava": {
     "files": [
