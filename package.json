@@ -1,6 +1,6 @@
 {
   "name": "foundation-icons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Foundation Icon Fonts 3",
   "main": "build/index.js",
   "scripts": {
